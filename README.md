@@ -1,2 +1,2 @@
 # kitaboo-downloader
-A tool to download your books from zanichelli into PDFs 
+**THIS REPOSITORY HAS BEEN MOVED TO https://github.com/Leone25/zanichelli-downloader**
